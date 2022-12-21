@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pic {
+    margin: 20px;
+    max-width: 750px;
+}
+
+.vote-container button{
+    margin: 0 10px;
+}
+
+h3 {
+    font-weight: normal;
+}
+
+#comment {
+    margin: 10px;
+}
+
+.all-comments {
+    width: 750px;
+    height: 500px;
+    border: 1px solid black;
+}
